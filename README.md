@@ -6,5 +6,5 @@
 •	Commit Messages: Professional developers use clear, descriptive commit messages that explain the reasoning behind changes. Vague messages like "fixed stuff" are a red flag.
 •	Testing and Code Quality: Check if repositories include unit or integration tests, which signals a focus on code quality and reliability.
 •	Collaboration & Community Engagement: Look for meaningful contributions (pull requests) to major open-source projects or engagement in issue threads. This demonstrates the ability to work within a team and existing complex codebases.
-•	Consistent Activity: A consistent contribution graph over time suggests regular coding activity. 
+Consistent Activity: A consistent contribution graph over time suggests regular coding activity. 
 
